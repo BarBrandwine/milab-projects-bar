@@ -1,0 +1,18 @@
+{
+ "tasks": [
+  {
+   "name": "Example Task",
+   "id": 0,
+   "description": "This is an example task",
+   "owner": "Bar",
+   "members": [
+    "Ran",
+    "Tal"
+   ],
+   "sub": null,
+   "date": "Tomorrow"
+  },
+  null,
+  null
+ ]
+}
