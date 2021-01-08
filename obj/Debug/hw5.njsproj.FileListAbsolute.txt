@@ -1,0 +1,3 @@
+C:\Users\barbr\source\repos\hw5\hw5\obj\Debug\hw5.njsprojAssemblyReference.cache
+C:\Users\barbr\source\repos\hw5\hw5\obj\Debug\hw5.njsproj.CoreCompileInputs.cache
+C:\Users\barbr\source\repos\hw5\hw5\bin\Microsoft.NodejsTools.WebRole.dll
